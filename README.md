@@ -17,6 +17,9 @@
 
 ---
 
+## 📂 Projetos
+
+### 💻 [Projeto 1: DELTABUS](https://github.com/BrunaReinert17/Pi2-deltabus)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E83ABA&height=120&section=footer"/>
 
