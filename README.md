@@ -19,7 +19,6 @@
 
 ## 📂 Projetos
 
-### 💻 [Projeto 1: DELTABUS](https://github.com/BrunaReinert17/Pi2-deltabus)
 ### 📊 [Projeto 2: Semáforo de trânsito de veículos com botão de pedestre](https://github.com/AguidaAriane/FundamentosdeEletronica/blob/main/projeto_equipe_d.ino)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E83ABA&height=120&section=footer"/>
